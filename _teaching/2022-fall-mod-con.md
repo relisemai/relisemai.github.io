@@ -10,7 +10,7 @@ location: "Troy, NY, USA"
 
 Modeling & Control of Dynamic Systems is a required junior-level undergraduate course for all Mechanical, Aerospace, and Nuclear Engineering ("MANE") students at RPI. As a required junior-level course, it is one of the largest courses, and proficiency with the subject matter is required for graduation.
 
-|Responsibilities|
-|----------------|
-|Hold office hours for 3 hours a week.|
-|Grade homework and exams.|
+|Responsibilities|Detail|
+|----------------|--|
+|Hold office hours for 3 hours a week.|I was able to build a core group of students who attended nearly all my office hours, and learned to tackle control problems together with my guidance.|
+|Grade homework and exams.|Coordinated three "war-room" style exam grading sessions to ensure students received their grades promptly.|
