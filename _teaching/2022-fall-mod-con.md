@@ -1,7 +1,7 @@
 ---
 title: "Graduate teaching assistant, Fall 2022"
 collection: teaching
-type: "Undergraduate cours"
+type: "Undergraduate course"
 permalink: /teaching/2022-fall-mod-con
 venue: "Rensselaer Polytechnic Institute, Mechanical, Aerospace, and Nuclear Engineering Department"
 date: 2022-08-01
