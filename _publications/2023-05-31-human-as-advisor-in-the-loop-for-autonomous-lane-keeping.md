@@ -6,7 +6,7 @@ excerpt: 'This paper presents a human-as-advisor architecture for shared human-m
 date: 2023-05-31
 venue: 'American Controls Conference'
 slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-paperurl: 'http://academicpages.github.io/files/paper1.pdf'
+paperurl: 'https://ieeexplore.ieee.org/abstract/document/10156374'
 citation: 'R. Mai, S. Mishra, and A. Julius. (2023). &quot;Human-as-advisor in the loop for autonomous lane-keeping.&quot; <i>2023 American Control Conference (ACC)</i>. IEEE, May 31, 2023. doi: 10.23919/acc55779.2023.10156374.'
 ---
 
