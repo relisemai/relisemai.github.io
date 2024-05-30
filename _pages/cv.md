@@ -11,26 +11,36 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Mechanical Engineering, Rensselaer Polytechnic Institute, 2025 (expected)
+* J.D., University of Texas at Austin School of Law, 2013
+* B.A. in Physics, Texas A&M University, 2010
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
-
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* January 2023-Present: Pathways Intern
+  * NASA Ames Research Center
+  * Achievements include: building a pipeline for data ingestion for LLM fine-tuning, demonstrating semantic search over ingested data, and research on queueing theory for pilot-controller coordination in UAM operation.
+  * Supervisor: Dr. JaeWoo Jung, Shannon Zelinski
+    
+* Spring 2024: Graduate teaching assistant
+  * Rensselaer Polytechnic Institute
+  * Course: Mechatronics
+  * Supervisor: Professor Sandipan Mishra
+    
+* Fall 2023: Graduate teaching assistant
+  * Rensselaer Polytechnic Institute
+  * Course: Mechatronics
+  * Supervisor: Professor Joshua Hurst
+    
+* Spring 2023: Graduate research assistant
+  * Rensselaer Polytechnic Institute
+  * Project: CRC-3 quadrotor biplane tailsitter build
+  * Supervisor: Professor Sandipan Mishra
+    
+* Fall 2022: Graduate teaching assistant
+  * Rensselaer Polytechnic Institute
+  * Course: Modeling & Control of Dynamic Systems
+  * Supervisor: Professor Luiz Cagliari
   
 Skills
 ======
