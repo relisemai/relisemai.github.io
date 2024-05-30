@@ -23,7 +23,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Your Sidebar Name"
-  pronouns         : "she/har"# example: "she/her"  
+  pronouns         : "she/her"# example: "she/her"  
   bio              : "Short biography for the left-hand sidebar"
   location         : "Troy, NY"
   employer         : "Rensselaer Polytechnic Institute"
