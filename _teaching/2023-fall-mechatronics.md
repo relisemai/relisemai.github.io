@@ -8,7 +8,7 @@ date: 2023-08-01
 location: "Troy, NY, USA"
 ---
 
-Mechatronics is a senior-level elective course that combines the sheer mathematical fun of control theory, the joy of characterizing and using hardware, and the headaches of hardware-software integration into a high-workload course that challenges even the few graduate students who take it. It is, without a doubt, my favorite course to TA.
+TA for Mechatronics under Professor Joshua Hurst.
 
 |Responsibilities|Detail|
 |-|-|
