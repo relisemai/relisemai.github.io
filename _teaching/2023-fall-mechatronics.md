@@ -1,7 +1,7 @@
 ---
 title: "Graduate teaching assistant, Fall 2023"
 collection: teaching
-type: "Workshop"
+type: "Undergraduate course"
 permalink: /teaching/2023-fall-mechatronics
 venue: "Rensselaer Polytechnic Institute, MANE Department"
 date: 2023-08-01
