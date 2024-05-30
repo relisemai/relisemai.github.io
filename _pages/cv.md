@@ -22,34 +22,34 @@ Work experience
   * Achievements include: building a pipeline for data ingestion for LLM fine-tuning, demonstrating semantic search over ingested data, and research on queueing theory for pilot-controller coordination in UAM operation.
   * Supervisor: Dr. JaeWoo Jung, Shannon Zelinski
     
-* Spring 2024: Graduate teaching assistant
+* January-May 2024: Graduate teaching assistant
   * Rensselaer Polytechnic Institute
   * Course: Mechatronics
   * Supervisor: Professor Sandipan Mishra
     
-* Fall 2023: Graduate teaching assistant
+* August-December 2023: Graduate teaching assistant
   * Rensselaer Polytechnic Institute
   * Course: Mechatronics
   * Supervisor: Professor Joshua Hurst
     
-* Spring 2023: Graduate research assistant
+* January-May 2023: Graduate research assistant
   * Rensselaer Polytechnic Institute
   * Project: CRC-3 quadrotor biplane tailsitter build
   * Supervisor: Professor Sandipan Mishra
     
-* Fall 2022: Graduate teaching assistant
+* August-December 2022: Graduate teaching assistant
   * Rensselaer Polytechnic Institute
   * Course: Modeling & Control of Dynamic Systems
   * Supervisor: Professor Luiz Cagliari
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Implementation and analysis of machine learning and reinforcement learning algorithms
+* Modeling, analysis, and design of electrical and mechanical systems using MATLAB and Python
+* Source code analysis and interpretation in MATLAB, Python, C, C++, Java, Fortran, and Assembly
+* Analysis and interpretation of 3GPP, 3GPP2, IEEE, and IETF communication devices and standards
+* Computer-aided design and additive manufacturing workflow
+* Persuasive technical and non-technical writing and speaking
 
 Publications
 ======
