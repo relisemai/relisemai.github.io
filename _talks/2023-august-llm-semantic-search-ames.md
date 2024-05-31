@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2023-august-llm-semantic-search-ames
 venue: "NASA Ames Research Center"
-date: August 2023
+date: 2023-08-01
 location: "Moffett Field, CA, USA"
 ---
 
