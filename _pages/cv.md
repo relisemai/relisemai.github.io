@@ -12,8 +12,14 @@ redirect_from:
 Education
 ======
 * Ph.D in Mechanical Engineering, Rensselaer Polytechnic Institute, 2025 (expected)
+  * GPA: 4.0
+  * Selected coursework
+    * Controls: Multivariable control, Optimal control, Nonlinear control, Systems analysis techniques
+    * Machine learning: Machine learning for autonomy, Safe autonomy, System identification from data
 * J.D., University of Texas at Austin School of Law, 2013
-* B.A. in Physics, Texas A&M University, 2010
+  * GPA: 3.14 
+* B.A. in Physics, _cum laude_, Texas A&M University, 2010
+  * GPA: 3.56 
 
 Work experience
 ======
