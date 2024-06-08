@@ -10,12 +10,6 @@
  *
 */
 
-$body-color: #263238;
-$background-color: #2e3c43;
-$text-color: #314549;
-$link-color: #546e7a;
-$masthead-link-color: #b2ccd6;
-
 @import "vendor/breakpoint/breakpoint"; // media query mixins
 @import "variables";
 @import "mixins";
@@ -45,3 +39,9 @@ $masthead-link-color: #b2ccd6;
 @import "vendor/font-awesome/brands";
 @import "vendor/magnific-popup/magnific-popup";
 @import "print";
+
+$body-color: #263238;
+$background-color: #2e3c43;
+$text-color: #314549;
+$link-color: #546e7a;
+$masthead-link-color: #b2ccd6;
