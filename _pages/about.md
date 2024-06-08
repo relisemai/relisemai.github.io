@@ -11,7 +11,7 @@ This is Rene Mai's research and academic profile page.
 
 Research Interests
 ======
-My research interests are in symbiotic human-machine autonomy (also called shared autonomy).  
+Fundamentally, the question that drives my research is how humans can build our technology and devices so that we achieve peak performance together. I try to integrate engineering and cognitive science approaches in my approach to symbiotic human-machine autonomy (also called shared autonomy). My current focus is in applying physics-based symbiotic autonomy principles to complex systems like transportation and robotics. 
 
 Professional Profile
 ======
