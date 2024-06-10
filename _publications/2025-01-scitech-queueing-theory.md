@@ -1,7 +1,7 @@
 ---
 title: "A Queueing Theory Approach to Pilot-Controller Coordination for m:N Operations"
 collection: publications
-permalink: /publication/2024-01-scitech-queueing-theory
+permalink: /publications/2024-01-scitech-queueing-theory
 excerpt: 
 date: 2025-01-06
 venue: 'AIAA SciTech (under review)'
