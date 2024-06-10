@@ -1,7 +1,7 @@
 ---
 title: "Human-as-advisor in the loop for autonomous lane-keeping"
 collection: publications
-permalink: /publications/2023-05-31-human-as-advisor-in-the-loop-for-autonomous-lane-keeping
+permalink: /publication/2023-05-31-human-as-advisor-in-the-loop-for-autonomous-lane-keeping
 excerpt: 'This paper presents a human-as-advisor architecture for shared human-machine autonomy in dynamic systems. In the human-as-advisor architecture, the human provides suggested control actions to the autonomous system; the system uses a model of the human controller to ascertain the system’s state as perceived by the human. The system combines this information with additional sensor measurements, yielding an improved state estimate. We apply this architecture to the problem of lane-centering an autonomous vehicle in the presence of conflicting lane markings that render the true lane center uncertain. '
 date: 2023-05-31
 venue: 'American Controls Conference'
