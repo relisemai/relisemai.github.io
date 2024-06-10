@@ -6,5 +6,4 @@ tags:
   - publications
   - update
 ---
-Publication update below.
--Friday June 7, 2024 I submitted a new publication, entitled "Analysis of human steering behavior differences in human-in-control and autonomy-in-control driving," submitted to the 5th IFAC Workshop on Cyber-Physical Human Systems (2024), with co-authors Agung Julius and Sandipan Mishra. Read more about it on my publications page.
+Publication update: Friday June 7, 2024 I submitted a new publication, entitled "Analysis of human steering behavior differences in human-in-control and autonomy-in-control driving," submitted to the 5th IFAC Workshop on Cyber-Physical Human Systems (2024), with co-authors Agung Julius and Sandipan Mishra. Read more about it on my publications page.
