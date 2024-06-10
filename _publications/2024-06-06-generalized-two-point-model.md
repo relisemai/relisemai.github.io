@@ -1,7 +1,7 @@
 ---
 title: "Generalized two-point visual control model of human steering for accurate state estimation"
 collection: publications
-permalink: /publication/2024-06-06-generalized-two-point-model
+permalink: /publications/2024-06-06-generalized-two-point-model
 excerpt: 'We derive and validate a generalization of the two-point visual control model, an accepted cognitive science model for human steering behavior. The generalized model is needed as current steering models are either insufficiently accurate or too complex for online state estimation. '
 date: 2024-06-06
 venue: 'Modeling, Estimation, and Controls Conference (under review)'
