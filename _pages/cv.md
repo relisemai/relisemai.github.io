@@ -1,4 +1,5 @@
----
+<embed src="{{ site.baseurl }}/files/REM CV.pdf" width="600" height="700" type='application/pdf'>
+<!---
 layout: archive
 title: "CV"
 permalink: /cv/
@@ -146,4 +147,4 @@ Hobbies
 * Writing
 * Baking
 * Crochet
-* Horseback riding
+* Horseback riding-->
