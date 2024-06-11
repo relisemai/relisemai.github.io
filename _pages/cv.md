@@ -1,4 +1,4 @@
-<embed src="{{ site.baseurl }}/files/REM CV.pdf" width="600" height="700" type='application/pdf'>
+<a href="relisemai.github.io/files/REM_CV.pdf" target="_blank">PDF.</a>
 <!---
 layout: archive
 title: "CV"
