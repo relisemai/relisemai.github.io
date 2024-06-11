@@ -1,4 +1,4 @@
-<a href="relisemai.github.io/files/REM_CV.pdf" target="_blank">PDF.</a>
+Please click <a href="relisemai.github.io/files/REM_CV.pdf" target="_blank">here</a> to view my current CV.
 <!---
 layout: archive
 title: "CV"
