@@ -1,4 +1,15 @@
-Please click <a href="relisemai.github.io/files/REM_CV.pdf" target="_blank">here</a> to view my current CV.
+layout: archive
+title: "CV"
+permalink: /cv/
+author_profile: true
+redirect_from:
+  - /resume
+---
+
+{% include base_path %}
+
+Please click <a href="https://relisemai.github.io/files/REM_CV.pdf" target="_blank">here</a> to view my current CV.
+
 <!---
 layout: archive
 title: "CV"
