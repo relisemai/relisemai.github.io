@@ -1,6 +1,6 @@
 layout: archive
 title: "CV"
-permalink: /cv/
+permalink: /files/REM_CV.pdf
 author_profile: true
 redirect_from:
   - /resume
