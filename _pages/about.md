@@ -7,11 +7,13 @@ redirect_from:
   - /about.html
 ---
 
-This is Rene Mai's research and academic profile page.
+I am a fourth year PhD student in mechanical engineering at Rensselaer Polytechnic Institute with a focus in controls for symbiotic autonomous systems.
 
 Research Interests
 ======
 Fundamentally, the question that drives my research is how humans can build our technology and devices so that we achieve peak performance together. I try to integrate engineering and cognitive science perspectives in my approach to symbiotic human-machine autonomy (also called shared autonomy). My focus is modeling human-autonomy interaction in complex systems such as robotics and transportation as a dynamical system, rather than from a social or data-driven perspective.
+
+Although my research focuses on the most efficient methods for teams to accomplish goals, my professional path has been less direct. 
 
 Professional Profile
 ======
