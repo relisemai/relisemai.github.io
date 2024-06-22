@@ -4,7 +4,7 @@ collection: talks
 type: "Talk"
 permalink: /talks/2022-august-arl-HaA-presentation
 venue: "Humans in Complex Systems, DEVCOM Army Research Laboratory"
-date: 2022-08-01
+date: 2022-08-03
 location: "Aberdeen, MD, USA"
 ---
 
