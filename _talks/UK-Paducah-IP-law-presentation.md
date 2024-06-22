@@ -4,7 +4,7 @@ collection: talks
 type: "Guest lecture"
 permalink: /talks/UK-Paducah-IP-law-presentation
 venue: "University of Kentucky Paducah"
-date: 2023-03-01
+date: 2023-03-08
 location: "Virtual"
 ---
 
