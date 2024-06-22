@@ -4,7 +4,7 @@ collection: talks
 type: "Guest lecture"
 permalink: /talks/new-visions-ip-talks
 venue: "New Visions STEM, Questar III BOCES"
-date: 2024-05-01, 2023-02-01, 2022-05-01
+date: 2024-05-21, 2023-02-01, 2022-05-04
 location: "Troy, NY"
 ---
 
