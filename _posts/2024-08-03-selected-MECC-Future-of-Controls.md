@@ -1,5 +1,5 @@
 ---
-title: ''
+title: 'Selected to present at the 2024 Modeling, Estimation, and Controls Conference panel "The Future of the Controls Field: Research Perspectives From Young Members of the MECC Community."'
 date: 2024-08-03
 permalink: /posts/2024-08-03-selected-MECC-Future-of-Controls
 tags:
