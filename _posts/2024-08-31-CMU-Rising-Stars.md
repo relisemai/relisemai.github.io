@@ -1,7 +1,7 @@
 ---
 title: 'Selected for the 2024 Rising Stars in Mechanical Engineering workshop at Carnegie Mellon University'
-date: 2024-08-03
-permalink: /posts/2024-08-31_CMU_Rising_Stars
+date: 2024-08-31
+permalink: /posts/2024-08-31-CMU-Rising-Stars
 tags:
   - publications
   - talks
