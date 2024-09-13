@@ -1,6 +1,6 @@
 ---
 title: 'Finalist for the Best Student Research Award at the 2024 Modeling, Estimation, and Controls Conference'
-date: 2024-08-31
+date: 2024-09-12
 permalink: /posts/2024-09-12-Best-Student-Research
 tags:
   - publications
