@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/2024-06-06-generalized-two-point-model
 excerpt: 'We derive and validate a generalization of the two-point visual control model, an accepted cognitive science model for human steering behavior. The generalized model is needed as current steering models are either insufficiently accurate or too complex for online state estimation. '
 date: 2024-06-06
-venue: 'ASME Letters in Dynamic Systems and Control (joint submission to the 2024 Modeling, Estimation, and Controls Conference) (accepted) (Finalist for Best Student Research Paper)'
+venue: 'ASME Letters in Dynamic Systems and Control (joint submission to the 2024 Modeling, Estimation, and Controls Conference) (accepted) (Finalist for Best Student Research Award)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
 paperurl: 'https://arxiv.org/abs/2406.03622'
 citation: 'R. Mai, K. Sears, G. Roessling, A. Julius, and S. Mishra. (2024). &quot;Generalized two-point visual control model of human steering for accurate state estimation.&quot; <i>ASME Letters in Dynamic Systems and Control (dual track submission to the 2024 Modeling, Estimation and Controls Conference)(under review)</i>.'
