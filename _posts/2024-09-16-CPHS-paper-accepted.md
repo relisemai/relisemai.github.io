@@ -1,5 +1,5 @@
 ---
-title: 'Newly-submitted publication update'
+title: 'Submission to 5th IFAC Workshop on Cyber-Physical Human Systems accepted'
 date: 2024-09-16
 permalink: /posts/2024-09-16-CPHS-paper-accepted
 tags:
