@@ -4,9 +4,9 @@ collection: publications
 permalink: /publication/2024-06-07-analysis-of-human-steering-2024-CPHS
 excerpt: 'Steering models (such as the generalized two-point model) predict human steering behavior well when the human is in direct control of a vehicle. In vehicles under autonomous control, human control inputs are not used; rather, an autonomous controller applies steering and acceleration commands to the vehicle. '
 date: 2024-06-07
-venue: 'IFAC Workshop on Cyber-Physical Human Systems (under review)'
+venue: 'IFAC Workshop on Cyber-Physical Human Systems (accepted)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'https://arxiv.org/abs/2406.03622'
+paperurl: 'https://arxiv.org/abs/2410.00181'
 citation: 'R. Mai, A. Julius, and S. Mishra. (2024). &quot;Analysis of human steering behavior differences in human-in-control and autonomy-in-control driving.&quot; <i>2024 Workshop on Cyber-Physical Human Systems (CPHS) (Accepted)</i>.'
 ---
 
