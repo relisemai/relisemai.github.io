@@ -1,6 +1,6 @@
 layout: archive
 title: "CV"
-permalink: /files/REM_CV.pdf
+permalink: /files/REM%20CV.pdf
 author_profile: true
 redirect_from:
   - /resume
@@ -8,9 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="{{ site.baseurl }}/files/REM_CV.pdf" width="600" height="700" type='application/pdf'>
+<embed src="{{ site.baseurl }}/files/REM%20CV.pdf" width="600" height="700" type='application/pdf'>
 
-<!---Please click <a href="https://relisemai.github.io/files/REM_CV.pdf" target="_blank">here</a> to view my current CV.-->
+<!---Please click <a href="https://relisemai.github.io/files/REM%20CV.pdf" target="_blank">here</a> to view my current CV.-->
 
 <!---
 layout: archive
