@@ -1,7 +1,7 @@
 ---
 title: 'Mid-year updates for 2025'
 date: 2025-08-09
-permalink: /posts/2025-mid-year-updates
+permalink: /posts/2025-08-09-mid-year-updates
 tags:
   - publications
   - update
