@@ -6,7 +6,7 @@ excerpt: 'Well-accepted models such as the two-point steering model and its vari
 date: 2025-05-07
 venue: '12th IFAC Symposium on Intelligent Autonomous Vehicles (accepted)'
 #slidesurl: 'http://academicpages.github.io/files/slides1.pdf'
-#paperurl: 'https://arxiv.org/abs/2406.03622'
+paperurl: 'https://www.sciencedirect.com/science/article/pii/S2405896325003428'
 citation: 'R. Mai, K. Daveron, A. Julius, and S. Mishra. (2025). &quot;Modeling human-autonomy team steering behavior in shared-autonomy driving scenarios.&quot; <i>2025 IFAC Symposium on Intelligent Autonomous Vehicles (Accepted)</i>.'
 ---
 
