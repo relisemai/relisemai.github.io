@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth year PhD student in mechanical engineering at Rensselaer Polytechnic Institute with a focus in controls for symbiotic autonomous systems.
+I am a fifth-year PhD student in mechanical engineering at Rensselaer Polytechnic Institute with a focus in controls for symbiotic autonomous systems.
 
 Research Interests
 ======
