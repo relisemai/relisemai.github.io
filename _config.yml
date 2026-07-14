@@ -24,9 +24,9 @@ author:
   avatar           : "Lightsaber!.jpg"
   name             : "Rene Mai"
   pronouns         : "she/her"# example: "she/her"  
-  bio              : "Mechanical engineering PhD student"
-  location         : "Troy, NY"
-  employer         : "Rensselaer Polytechnic Institute"
+  bio              : "Postdoctoral Research Scholar"
+  location         : "Ann Arbor, MI"
+  employer         : "University of Michigan Ann Arbor"
   uri              : # URL
   email            : "renemai@umich.edu" 
 
